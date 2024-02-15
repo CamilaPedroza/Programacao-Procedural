@@ -1,4 +1,4 @@
-# Programacao-Procedural
+# Módulo 1 - Programação procedural
 
 Neste módulo iremos estudar os fundamentos da programação de computadores. Nosso roadmap para esse módulo será:
 
