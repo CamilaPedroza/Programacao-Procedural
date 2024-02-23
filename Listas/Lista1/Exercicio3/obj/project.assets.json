@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\camila.pedroza\\Documents\\GitHub\\Programacao-Procedural\\Listas\\Lista1\\Exercicio3\\Exercicio3.csproj",
+      "projectUniqueName": "C:\\Users\\camila.pedroza\\Desktop\\Programacao-Procedural\\Listas\\Lista1\\Exercicio3\\Exercicio3.csproj",
       "projectName": "Exercicio3",
-      "projectPath": "C:\\Users\\camila.pedroza\\Documents\\GitHub\\Programacao-Procedural\\Listas\\Lista1\\Exercicio3\\Exercicio3.csproj",
+      "projectPath": "C:\\Users\\camila.pedroza\\Desktop\\Programacao-Procedural\\Listas\\Lista1\\Exercicio3\\Exercicio3.csproj",
       "packagesPath": "C:\\Users\\camila.pedroza\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\camila.pedroza\\Documents\\GitHub\\Programacao-Procedural\\Listas\\Lista1\\Exercicio3\\obj\\",
+      "outputPath": "C:\\Users\\camila.pedroza\\Desktop\\Programacao-Procedural\\Listas\\Lista1\\Exercicio3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\camila.pedroza\\AppData\\Roaming\\NuGet\\NuGet.Config"
