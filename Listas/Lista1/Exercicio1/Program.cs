@@ -7,7 +7,7 @@ class Program
        Console.WriteLine("Olá! Digite seu nome: ");
        string nome = Console.ReadLine();
         
-        // No meu caso, a entrada dos n°s decimais funcionou corretamente com virgula.
+        // No meu caso, a entrada dos n°s decimais funcionaram corretamente com virgula.
         Console.WriteLine("Digite a nota do 1° Bimestre: ");
         double nota1 = double.Parse(Console.ReadLine());
 
