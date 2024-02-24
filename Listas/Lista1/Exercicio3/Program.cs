@@ -5,6 +5,7 @@ class Program
 
   static void Main(string[] args)
    { 
+
     Console.WriteLine("Digite a quantidade de moedas de 1 centavo: ");
     int quantidadeDeMoedas = int.Parse(Console.ReadLine());
 
