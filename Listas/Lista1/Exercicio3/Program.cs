@@ -3,8 +3,8 @@
 class Program
 {
 
-static void Main(string[] args)
-{ 
+  static void Main(string[] args)
+   { 
     Console.WriteLine("Digite a quantidade de moedas de 1 centavo: ");
     int quantidadeDeMoedas = int.Parse(Console.ReadLine());
 
@@ -13,7 +13,7 @@ static void Main(string[] args)
 
     Console.WriteLine("A quantidade total em dinheiro é: " + conversaoDasMoedasRecebidas +  " real(is)" + " e "  + sobraDasMoedas + " centavo(s).");
  
-}
+     }
 
 }
 
