@@ -25,7 +25,7 @@ class Program
         Console.WriteLine(nome + ", sua Média Final é: " + Math.Round(mediaFinal, 3) + ".");
 
      }
-} 
+}
 
 
 
